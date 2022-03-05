@@ -1,0 +1,8 @@
+Modules to be installed:
+tensorflow==2.1.0
+keras
+keras_applications==1.0.8
+image-classifiers==1.0.0
+PIL
+opencv-python
+streamlit

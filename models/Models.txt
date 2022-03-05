@@ -1,0 +1,18 @@
+Model_0:
+https://drive.google.com/file/d/1ODLstoJOK6Y8nlz2Nj4-MM9A5tZhTshX/view?usp=sharing
+
+Model_1: 
+https://drive.google.com/file/d/1qKJj4A_W-Fka8Wp0kEsqhDFVRl3KCYD4/view?usp=sharing
+
+Models trained on a smaller dataset of 5000 images:
+Model_2:
+https://drive.google.com/file/d/14DIdrtapF8KbgGV8rU8hXsf_fYRl4dNH/view?usp=sharing
+
+Model_3:
+https://drive.google.com/file/d/1-1JT8-iGyxvKEAg-NnX0Pr13AY1jT9nj/view?usp=sharing
+
+Model_4 10 epochs:
+https://drive.google.com/file/d/1cX2XubVNzLjkUu4pDw3w9R-LN0_lfzWH/view?usp=sharing
+
+Model_4 30 epochs:
+https://drive.google.com/file/d/1-6KMqMjIfM4rW0K9eWbKe0UXDMWNDPz7/view?usp=sharing
