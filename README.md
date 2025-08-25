@@ -90,6 +90,12 @@ Running the app
  streamlit run app.py
  ```
 
+## Sample Outputs
+Once uploaded, the GUI displays the defects as follows:
+
+<img width="890" height="181" alt="defect_multi_1" src="https://github.com/mahekvora/Metal-Sheet-Defects-Pixelwise-Classification/blob/master/reports/figures/defect_multi_1.png" />
+
+<img width="890" height="181" alt="defect_4_1" src="https://github.com/mahekvora/Metal-Sheet-Defects-Pixelwise-Classification/blob/master/reports/figures/defect_4_1.png" />
 
 --------
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
